@@ -43,7 +43,7 @@ python main.py
 
 ---
 
-## Kullanıcıların Dikkat Etmesi Gereken Noktalar  
+## <h4> Kullanıcıların Dikkat Etmesi Gereken Noktalar  </h4>
 
 1. **Model dosyası**:  
    - **`dog_best5.pt`** dosyasının doğru dizinde olduğundan emin olun.
@@ -103,7 +103,7 @@ python main.py
 
 ---
 
-## Important Notes for Users  
+## <h4> Important Notes for Users </h4> 
 
 1. **Model file**:  
    - Make sure the **`dog_best5.pt`** file is in the correct directory.
