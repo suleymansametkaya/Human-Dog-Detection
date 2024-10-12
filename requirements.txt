@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 ultralytics==8.0.20
 torch==2.0.1
 opencv-python==4.8.0.76
-=======
-ultralytics==8.0.20
-torch==2.0.1
-opencv-python==4.8.0.76
->>>>>>> f354226 (Proje Dosyaları Eklendi)
 numpy==1.23.5
